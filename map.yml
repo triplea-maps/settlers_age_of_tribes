@@ -1,0 +1,4 @@
+map_name: settlers_age_of_tribes
+games:
+- {game_name: 'Settlers: Age of Tribes', file_name: settlers_age_of_tribes.xml}
+version: 0
